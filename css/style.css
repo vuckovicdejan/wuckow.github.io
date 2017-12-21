@@ -1,0 +1,43 @@
+.body{
+   border-radius: 5px;
+}
+
+#info{
+  background-color: skyblue  ;
+}
+
+#about {
+  background-color: Aquamarine  ;
+}
+
+#contact {
+  font-weight: bold;
+  background-color: LightSlateGray   ;
+  background-size: cover;
+}
+
+#projects {
+  background-color: DarkOrange ;
+}
+
+.other-color {
+  background-color: coral;
+}
+
+.top-buffer {
+  margin-top: 100px;
+}
+
+.buffer {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.bottom-buffer {
+  margin-bottom: 100px;
+}
+
+.big-buffer {
+  margin-top: 250px;
+  margin-bottom: 250px;
+}
