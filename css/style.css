@@ -3,7 +3,7 @@
 }
 
 #info{
-  background-color: skyblue  ;
+  background-color: rgb(204, 255, 204)  ;
 }
 
 #about {
@@ -12,16 +12,21 @@
 
 #contact {
   font-weight: bold;
-  background-color: LightSlateGray   ;
+  background-color: #fff2e6   ;
   background-size: cover;
 }
 
 #projects {
-  background-color: DarkOrange ;
+  background-color: #ccebff ;
+}
+
+#certs{
+  
+ background-color:#f0f0f5 ;
 }
 
 .other-color {
-  background-color: coral;
+  background-color: rgb(255, 255, 204);
 }
 
 .top-buffer {
@@ -40,4 +45,10 @@
 .big-buffer {
   margin-top: 250px;
   margin-bottom: 250px;
+}
+
+a{
+  
+  color:Black;
+  
 }
